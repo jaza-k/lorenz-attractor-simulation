@@ -1,2 +1,2 @@
 # lorenz-attractor-simulation
-a lorenz attractor simulation built in Processing (Java)
+A program simulating the Lorenz attractor built in Processing (Java).
